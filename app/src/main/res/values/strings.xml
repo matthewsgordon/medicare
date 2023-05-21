@@ -1,0 +1,22 @@
+<resources>
+    <string name="app_name">Medicare</string>
+    <string name="email_address">Email Address</string>
+    <string name="password">Password</string>
+    <string name="login_button">Login</string>
+    <string name="register_button">Register</string>
+    <string name="reenter_password">Re-Enter Password</string>
+    <string name="firstname">First Name</string>
+    <string name="lastname">Last Name</string>
+    <string name="age">Age</string>
+    <string name="health_entry_button">Entry</string>
+    <string name="logout_button">Logout</string>
+    <string name="profile_button">Profile</string>
+    <string name="user_summary">User Summary</string>
+    <string name="health_contact">Health Contact</string>
+    <string name="select_contact_button">Health Contact</string>
+    <string name="health_temperature">Temperature</string>
+    <string name="health_lower_blood">Lower Blood Pressure</string>
+    <string name="health_entry_higher_blood">Higher Blood Pressure</string>
+    <string name="health_beats">Heartbeats per Min</string>
+    <string name="health_save">Save</string>
+</resources>
